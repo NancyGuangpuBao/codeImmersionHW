@@ -1,0 +1,45 @@
+.
+└── directoryTreeHomework
+    ├── HW1
+    └── directories
+        ├── Dogs
+        │   ├── hate
+        │   │   ├── bananas.html
+        │   │   └── bones.html
+        │   └── like
+        │       ├── bananas.html
+        │       └── bones.html
+        ├── Monkeys
+        │   ├── hate
+        │   │   ├── bananas.html
+        │   │   └── bones.html
+        │   └── like
+        │       ├── bananas.html
+        │       └── bones.html
+        ├── e-texts
+        │   ├── Maugham,W.Somerset
+        │   │   ├── moona10.txt
+        │   │   └── moona10.zip
+        │   ├── OReilly,Augustine
+        │   │   └── Alvira_The_Heroine_of_Vesuvius.txt
+        │   ├── Poe,EdgarAllan
+        │   │   ├── poelv10.txt
+        │   │   ├── poelv10.zip
+        │   │   └── story2.txt
+        │   └── gutindex.all
+        ├── forbidden.txt
+        ├── images
+        │   ├── cartoons
+        │   │   ├── df950523.jpg
+        │   │   └── df971202.jpg
+        │   └── clipart
+        │       ├── animals
+        │       │   ├── dog.gif
+        │       │   └── monkey.gif
+        │       └── food
+        │           ├── bananas.gif
+        │           └── bone.gif
+        ├── index.html
+        └── structure.txt
+
+17 directories, 25 files
